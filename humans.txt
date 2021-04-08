@@ -1,0 +1,40 @@
+__  __  __
+\ \ \ \ \/
+ \ \/\ \
+  \/  \/
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+DEVELOPER | 
+
+Quadato Studios
+Karthik Csv
+Kalyani M
+Prajwal Shukla
+Bhanu Vangari
+Hand crafted design & web development
+
+Design tools:
+Figma
+Photoshop
+
+instagram.com/quadatostudios
+linkedin.com/company/quadato
+
+_______________________________________________________________________________
+
+TECHNOLOGY | 
+
+React
+Three js
+Popmotion
+
+_______________________________________________________________________________
+
+FONTS | 
+
+Gotham
+Hiragino Kaku Gothic
